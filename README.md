@@ -16,5 +16,5 @@ git clone https://github.com/slim-python/youtube-auto-commenter
 
 after clonning go to youtube-auto-commenter (cd youtube-auto-commenter)
 
-type "youtube auto commenter.py"
+type "youtube auto commenter.py" (to start)
 
